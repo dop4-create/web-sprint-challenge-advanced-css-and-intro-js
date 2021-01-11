@@ -134,3 +134,14 @@ button:hover{
 .artist img{
     width:100%;
 }
+
+/* added media queries */
+
+@media(max-width: 1000px) {
+
+.artists-container {
+    display: inline;
+   
+}
+
+}
